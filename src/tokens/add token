@@ -1,0 +1,9 @@
+{
+    "chainId": 101,
+    "address": "4QGV2zj1uHs3mWfsxyy4Gb1yAuzrsb9BWZdx3pqaCJmB",
+    "symbol": "BHEADS",
+    "name": "Bulls Heads Token",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/BullsHeadsDAO/token/main/token.png",
+    "tags": []
+}
